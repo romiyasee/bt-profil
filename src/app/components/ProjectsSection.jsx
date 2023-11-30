@@ -54,7 +54,7 @@ const projectsData = [
     title: "AempeDev App",
     description: "Projek Aplikasi Pembelajaran Pemrograman Mobile (Advanced Mobile Programming)",
     image: "/images/projects/18.png",
-    tag: ["All", "Web"],
+    tag: ["All", "Mobile"],
     gitUrl: "/",
     previewUrl: "/",
   },
