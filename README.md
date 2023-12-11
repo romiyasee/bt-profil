@@ -1,4 +1,4 @@
 # Portfolio Website
-## Ini mer
+## Ini meru
 
 
