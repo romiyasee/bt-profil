@@ -1,4 +1,4 @@
 # Portfolio Website
-## Ini merupakan web pro
+## Ini merupakan web profil
 
 
