@@ -1,4 +1,4 @@
 # Portfolio Website
-## Ini merupakan web profil dan port
+## Ini merupakan web profil dan portfolio
 
 
